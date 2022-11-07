@@ -1,0 +1,7 @@
+Turning the expense tracker into a React application
+
+  - to be able to manage a global state I can simply create the state in the App.js file
+  - but this would be 'prop drilling'
+  - or use the 'contenxt-api'
+  - in the 'context-api'-s 'Provider' the components are 'children'
+  - in a component I only can call a function as a callback function
